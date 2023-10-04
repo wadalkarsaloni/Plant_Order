@@ -1,0 +1,47 @@
+/* .logo{
+    height: 30px !important;
+    width: 30px !important;
+} */
+.contactUs{
+    position: relative;
+}
+
+.cont_para{
+    position: absolute;
+    z-index: 1000;
+    color: white;
+    top: 3vh;
+    left: 35vw;
+}
+.seed_div{
+    height: 14rem;
+    background-color: rgb(250, 247, 247) !important;
+}
+.para{
+    margin-left: 5rem !important ;
+    padding-top: 1rem !important;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center !important;
+}
+.btn1{
+    justify-content: center !important;
+}
+
+.swiper-img{
+    height: 20rem !important;
+    width: 100vw !important;
+    overflow: hidden;
+}
+.fdiv{
+    text-align: center !important;
+}
+.gift_div{
+    height: 14rem;
+    background-color: rgb(250, 247, 247) !important;
+}
+.p1{
+    margin-left: 5rem !important ;
+    padding-top: 3rem !important;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center !important;
+}
